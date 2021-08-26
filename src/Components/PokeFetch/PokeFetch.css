@@ -28,7 +28,12 @@
   margin-left: 18vw;
 }
 
-.pokeImg {
+#pokeDark {
+  width: 500px;
+  filter: brightness(0%);
+}
+
+#pokeLight {
   width: 500px;
 }
 
